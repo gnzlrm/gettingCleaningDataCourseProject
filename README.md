@@ -22,6 +22,7 @@ Please, make sure to place your working directory into the main directory of the
 downloaded files. To be sure that you're on the right place, a dir/ls command (depending 
 on your OS) should list the 'test' and 'train' folders, aswell as the 
 'activities_labels.txt' and 'features.txt' files.
+Also, please, make sure that the library 'reshape2' is installed.
 
 __________________________________________________________________________________________
 
